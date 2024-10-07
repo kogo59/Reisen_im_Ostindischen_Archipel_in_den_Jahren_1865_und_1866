@@ -53,37 +53,38 @@ den 1. September 1868.
 4. [Ein Javanese nebst Familie.](ch003.xhtml#b016) (Nach einer Photographie)
 5. [Rahden Saleh.](ch003.xhtml#b020) (Nach einer Photographie)
 6. [Rahden Saleh's Palast.](ch003.xhtml#b021) (Nach einer Photographie)
-7. Ein Tandu. (Nach einer Photographie)
-8. Besprengung der Straßen in Batavia. 
-10. Ein Eingeborner von Belutschistan. (Nach einer Photographie)
-11. Sapis oder Ochsen von Madura. (Nach einer Photographie)
-12. Fruchtmarkt. (Nach einer Photographie).
-13. Grabmal des Sultans in Palembang.
-14. Der Pinang oder die Betelnußpalme. (Nach einer Zeichnung von Rahden Saleh)
-15. Nach dem Bade. (Nach einer Photographie)
-16. Musikalische Instrumente der Malaien (Batavia)
-17. Ein Dyak oder Kopfjäger von Borneo. (Nach einer Photographie).
-18. Landung auf der Südküste Cerams durch die Brandung hindurch. (Nach einer Skizze)
-19. Die Lontar-Palme.
-20. Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet. (Nach einer Skizze)
-21. Ein Dschungel
-22. Ein malaiischer Opiumraucher. (Nach einer Photographie)
-23. Die Gomuti-Palme. (Nach einer Skizze)
-24. Der Bambus.
-25. Zugang zur „Spalte“ in der Nähe von Pabang
-26. Frauen von Menangkabau.
-27. Eine Landschaft im Innern Sumatras.
-28. Eine Fahrt an jäher Felsenwand.
-29. Hängebrücke von Rotang auf Sumatra.
-30. Ein Eingeborner von Nias.
-31. Eingeborne von den Pagi-Inseln.
-32. Singapore.
-33. Eine Ansicht auf dem Flusse Limatang in Sumatra.
-34. Frauen aus Palembang.
+7. [Ein Tandu.](ch004.xhtml#b028) (Nach einer Photographie)
+8. [Besprengung der Straßen in Batavia.](ch004.xhtml#b038) 
+10. [Ein Kling.](ch004.xhtml#b040) 
+11. [Ein Eingeborner von Belutschistan.](ch004.xhtml#b041) (Nach einer Photographie)
+12. Sapis oder Ochsen von Madura. (Nach einer Photographie)
+13. Fruchtmarkt. (Nach einer Photographie).
+14. Grabmal des Sultans in Palembang.
+15. Der Pinang oder die Betelnußpalme. (Nach einer Zeichnung von Rahden Saleh)
+16. Nach dem Bade. (Nach einer Photographie)
+17. Musikalische Instrumente der Malaien (Batavia)
+18. Ein Dyak oder Kopfjäger von Borneo. (Nach einer Photographie).
+19. Landung auf der Südküste Cerams durch die Brandung hindurch. (Nach einer Skizze)
+20. Die Lontar-Palme.
+21. Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet. (Nach einer Skizze)
+22. Ein Dschungel
+23. Ein malaiischer Opiumraucher. (Nach einer Photographie)
+24. Die Gomuti-Palme. (Nach einer Skizze)
+25. Der Bambus.
+26. Zugang zur „Spalte“ in der Nähe von Pabang
+27. Frauen von Menangkabau.
+28. Eine Landschaft im Innern Sumatras.
+29. Eine Fahrt an jäher Felsenwand.
+30. Hängebrücke von Rotang auf Sumatra.
+31. Ein Eingeborner von Nias.
+32. Eingeborne von den Pagi-Inseln.
+33. Singapore.
+34. Eine Ansicht auf dem Flusse Limatang in Sumatra.
+35. Frauen aus Palembang.
 36. Palembang bei Hochwasser.
-36. Erlegung der Pythonschlange.
-37. Die Insel Sumatra.
-38. Karte zu Professor Bickmore's Reisen im ostindischen Archipel. Am Ende.
+37. Erlegung der Pythonschlange.
+38. Die Insel Sumatra.
+39. Karte zu Professor Bickmore's Reisen im ostindischen Archipel. Am Ende.
 
 
 ## Verbesserungen
