@@ -494,7 +494,7 @@ von Madura. Von der letztgenannten Gattung, Gallus, gibt es auf jener Insel und
 auf Java zwei wilde Arten. Eine derselben, Gallus bankiva, findet sich auch auf
 Sumatra und auf der Halbinsel Malacca. Eine dritte Art kommt auf den Philippinen
 vor, aber auf den großen Inseln Borneo und Celebes oder auf einer der ostwärts
-gelegenen Inseln ist noch keine bekannt. Auf der Halbinsel Malacca, Su-matra,
+gelegenen Inseln ist noch keine bekannt. Auf der Halbinsel Malacca, Sumatra,
 Borneo und den Gewürz-Inseln wird für ihn das malaiische Wort *Ayam* gebraucht,
 auf den Philippinen und Java aber benutzt man häufig das javanesische Wort
 *Manuk* daraus hat man geschlossen, daß die Malaien und Javanesen die
@@ -681,7 +681,7 @@ geeigneten Zeit den Samen hineinbringen und bis zur Erntezeit denselben gehörig
 besorgen.^[^0209]^ 
 
 :::: { .wrap-70 .caption }
-![Ein Kling.](Reisen_im_Ostindischen_Archipel_044.jpg "Ein Kling."){#b044}
+![Sapis oder Ochsen von Madura.](Reisen_im_Ostindischen_Archipel_044.jpg "Sapis oder Ochsen von Madura."){#b044}
 ::::
 
 Der Name der Plantage, die wir besuchen wollten, war „Seroenie“. Als wir uns ihr

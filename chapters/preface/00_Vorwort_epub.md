@@ -57,8 +57,8 @@ den 1. September 1868.
 8. [Besprengung der Straßen in Batavia.](ch004.xhtml#b038) 
 10. [Ein Kling.](ch004.xhtml#b040) 
 11. [Ein Eingeborner von Belutschistan.](ch004.xhtml#b041) (Nach einer Photographie)
-12. Sapis oder Ochsen von Madura. (Nach einer Photographie)
-13. Fruchtmarkt. (Nach einer Photographie).
+12. [Sapis oder Ochsen von Madura.](ch004.xhtml#b044) (Nach einer Photographie)
+13. [Fruchtmarkt.](ch005.xhtml#b062) (Nach einer Photographie).
 14. Grabmal des Sultans in Palembang.
 15. Der Pinang oder die Betelnußpalme. (Nach einer Zeichnung von Rahden Saleh)
 16. Nach dem Bade. (Nach einer Photographie)
