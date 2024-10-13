@@ -59,7 +59,7 @@ den 1. September 1868.
 11. [Ein Eingeborner von Belutschistan.](ch004.xhtml#b041) (Nach einer Photographie)
 12. [Sapis oder Ochsen von Madura.](ch004.xhtml#b044) (Nach einer Photographie)
 13. [Fruchtmarkt.](ch005.xhtml#b062) (Nach einer Photographie).
-14. Grabmal des Sultans in Palembang.
+14. [Grabmal des Sultans in Palembang.](ch007.xhtml#b094)
 15. Der Pinang oder die Betelnußpalme. (Nach einer Zeichnung von Rahden Saleh)
 16. Nach dem Bade. (Nach einer Photographie)
 17. Musikalische Instrumente der Malaien (Batavia)
