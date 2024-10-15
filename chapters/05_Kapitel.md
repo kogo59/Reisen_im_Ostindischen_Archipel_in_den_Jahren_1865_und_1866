@@ -1135,7 +1135,6 @@ vergessen; ich versprach daher den Eingebornen, wiederzukommen und alle
 Exemplare zu kaufen, die sie sammeln könnten, und kehrte nach der Stadt Amboina
 zurück.
 
-
 :::
 
 #### **Anmerkungen** {.break-before .unnumbered}

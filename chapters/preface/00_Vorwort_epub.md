@@ -60,11 +60,11 @@ den 1. September 1868.
 12. [Sapis oder Ochsen von Madura.](ch004.xhtml#b044) (Nach einer Photographie)
 13. [Fruchtmarkt.](ch005.xhtml#b062) (Nach einer Photographie).
 14. [Grabmal des Sultans in Palembang.](ch007.xhtml#b094)
-15. Der Pinang oder die Betelnußpalme. (Nach einer Zeichnung von Rahden Saleh)
-16. Nach dem Bade. (Nach einer Photographie)
-17. Musikalische Instrumente der Malaien (Batavia)
-18. Ein Dyak oder Kopfjäger von Borneo. (Nach einer Photographie).
-19. Landung auf der Südküste Cerams durch die Brandung hindurch. (Nach einer Skizze)
+15. [Der Pinang oder die Betelnußpalme.](ch008.xhtml#b132) (Nach einer Zeichnung von Rahden Saleh)
+16. [Nach dem Bade.](ch008.xhtml#b134)  (Nach einer Photographie)
+17. [Musikalische Instrumente der Malaien.](ch008.xhtml#b140)  (Batavia)
+18. [Ein Dyak oder Kopfjäger von Borneo.](ch008.xhtml#b152)  (Nach einer Photographie).
+19. [Landung auf der Südküste Cerams durch die Brandung hindurch.](ch008.xhtml#b154)  (Nach einer Skizze)
 20. Die Lontar-Palme.
 21. Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet. (Nach einer Skizze)
 22. Ein Dschungel
