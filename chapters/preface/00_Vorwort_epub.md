@@ -65,9 +65,9 @@ den 1. September 1868.
 17. [Musikalische Instrumente der Malaien.](ch008.xhtml#b140)  (Batavia)
 18. [Ein Dyak oder Kopfjäger von Borneo.](ch008.xhtml#b152)  (Nach einer Photographie).
 19. [Landung auf der Südküste Cerams durch die Brandung hindurch.](ch008.xhtml#b154)  (Nach einer Skizze)
-20. Die Lontar-Palme.
-21. Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet. (Nach einer Skizze)
-22. Ein Dschungel
+20. [Die Lontar-Palme.](ch009.xhtml#b162) 
+21. [Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet.](ch009.xhtml#b174)  (Nach einer Skizze)
+22. Ein Dschungel.
 23. Ein malaiischer Opiumraucher. (Nach einer Photographie)
 24. Die Gomuti-Palme. (Nach einer Skizze)
 25. Der Bambus.
