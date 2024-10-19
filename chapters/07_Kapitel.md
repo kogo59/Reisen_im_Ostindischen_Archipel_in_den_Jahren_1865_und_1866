@@ -555,7 +555,6 @@ und bedeutende Brauschen erhalten hatten, erreichten wir Alle glücklich den
 Grund und waren froh, daß wir von dem Vulkan weg waren und, auf Banda Neira
 landend, uns wieder auf festem Lande fühlten.
 
-
 :::: { .wrap-60 .caption }
 ![Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet.](Reisen_im_Ostindischen_Archipel_174.jpg "Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet."){#b174}
 ::::

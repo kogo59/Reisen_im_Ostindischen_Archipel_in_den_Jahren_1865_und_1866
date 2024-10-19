@@ -67,8 +67,8 @@ den 1. September 1868.
 19. [Landung auf der Südküste Cerams durch die Brandung hindurch.](ch008.xhtml#b154)  (Nach einer Skizze)
 20. [Die Lontar-Palme.](ch009.xhtml#b162) 
 21. [Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet.](ch009.xhtml#b174)  (Nach einer Skizze)
-22. Ein Dschungel.
-23. Ein malaiischer Opiumraucher. (Nach einer Photographie)
+22. [Ein Dschungel.](ch010.xhtml#b194)
+23. [Ein malaiischer Opiumraucher.](ch010.xhtml#b211) (Nach einer Photographie)
 24. Die Gomuti-Palme. (Nach einer Skizze)
 25. Der Bambus.
 26. Zugang zur „Spalte“ in der Nähe von Pabang
