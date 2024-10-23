@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 Am Morgen des 13. December zeigte sich der Klabat, ein kegelförmiger
 vulkanischer Berg, der eine Höhe von sechstausend fünfhundert Fuß erreicht, am
 Horizonte, und bald darauf sah man nördlich vom Klabat den Berg Sudara, „die
@@ -799,9 +798,6 @@ Casuarinen oder Casuar-Bäume stehen, deren lange, nadelähnliche Blätter genau
 dem flaumigen Gefieder jenes seltsamen Vogels gleichen. Diesen Abend, wo der
 Vollmond durch das Laubwerk scheint, ist der ganze Hain in einen verzauberten
 Ort verwandelt.
-
-
-
 
 :::
 
