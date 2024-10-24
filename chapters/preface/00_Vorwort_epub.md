@@ -71,9 +71,9 @@ den 1. September 1868.
 23. [Ein malaiischer Opiumraucher.](ch010.xhtml#b211) (Nach einer Photographie)
 24. [Die Gomuti-Palme.](ch011.xhtml#b280) (Nach einer Skizze)
 25. [Der Bambus.](ch011.xhtml#b284) 
-26. Zugang zur „Spalte“ in der Nähe von Pabang
-27. Frauen von Menangkabau.
-28. Eine Landschaft im Innern Sumatras.
+26. [Zugang zur „Spalte“ in der Nähe von Pabang.](ch012.xhtml#b296) 
+27. [Frauen von Menangkabau.](ch012.xhtml#b300) 
+28. [Eine Landschaft im Innern Sumatras.](ch012.xhtml#b306) 
 29. Eine Fahrt an jäher Felsenwand.
 30. Hängebrücke von Rotang auf Sumatra.
 31. Ein Eingeborner von Nias.
