@@ -69,13 +69,13 @@ den 1. September 1868.
 21. [Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet.](ch009.xhtml#b174)  (Nach einer Skizze)
 22. [Ein Dschungel.](ch010.xhtml#b194)
 23. [Ein malaiischer Opiumraucher.](ch010.xhtml#b211) (Nach einer Photographie)
-24. [Die Gomuti-Palme.](ch011.xhtml#b280) (Nach einer Skizze)
-25. [Der Bambus.](ch011.xhtml#b284) 
-26. [Zugang zur „Spalte“ in der Nähe von Pabang.](ch012.xhtml#b296) 
-27. [Frauen von Menangkabau.](ch012.xhtml#b300) 
-28. [Eine Landschaft im Innern Sumatras.](ch012.xhtml#b306) 
-29. Eine Fahrt an jäher Felsenwand.
-30. Hängebrücke von Rotang auf Sumatra.
+24. [Die Gomuti-Palme.](ch013.xhtml#b280) (Nach einer Skizze)
+25. [Der Bambus.](ch013.xhtml#b284) 
+26. [Zugang zur „Spalte“ in der Nähe von Pabang.](ch014.xhtml#b296) 
+27. [Frauen von Menangkabau.](ch014.xhtml#b300) 
+28. [Eine Landschaft im Innern Sumatras.](ch014.xhtml#b306) 
+29. [Eine Fahrt an jäher Felsenwand.](ch015.xhtml#b318) 
+30. [Hängebrücke von Rotang auf Sumatra.](ch015.xhtml#b324) 
 31. Ein Eingeborner von Nias.
 32. Eingeborne von den Pagi-Inseln.
 33. Singapore.
@@ -83,7 +83,7 @@ den 1. September 1868.
 35. Frauen aus Palembang.
 36. Palembang bei Hochwasser.
 37. Erlegung der Pythonschlange.
-38. [Die Insel Sumatra.](ch011.xhtml#b290) 
+38. [Die Insel Sumatra.](ch013.xhtml#b290) 
 39. Karte zu Professor Bickmore's Reisen im ostindischen Archipel. Am Ende.
 
 

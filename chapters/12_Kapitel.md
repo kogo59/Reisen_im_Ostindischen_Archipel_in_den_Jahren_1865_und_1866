@@ -584,6 +584,10 @@ urtheilen, die zu Schmucksachen verwendet wird, muß es eine sehr beträchtliche
 Masse sein. Es wird immer in der Gestalt von „Staub“ ge- und verkauft und ist in
 keiner Gegend des Archipels, außer in Achin, je zu Geld geprägt worden.
 
+
+
+
+
 :::
 
 
