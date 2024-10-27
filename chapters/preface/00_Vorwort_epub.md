@@ -76,7 +76,7 @@ den 1. September 1868.
 28. [Eine Landschaft im Innern Sumatras.](ch014.xhtml#b306) 
 29. [Eine Fahrt an jäher Felsenwand.](ch015.xhtml#b318) 
 30. [Hängebrücke von Rotang auf Sumatra.](ch015.xhtml#b324) 
-31. Ein Eingeborner von Nias.
+31. [Ein Eingeborner von Nias.](ch015.xhtml#b38) 
 32. Eingeborne von den Pagi-Inseln.
 33. Singapore.
 34. Eine Ansicht auf dem Flusse Limatang in Sumatra.

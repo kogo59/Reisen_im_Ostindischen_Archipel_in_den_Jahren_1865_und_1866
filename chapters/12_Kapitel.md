@@ -585,9 +585,6 @@ Masse sein. Es wird immer in der Gestalt von „Staub“ ge- und verkauft und is
 keiner Gegend des Archipels, außer in Achin, je zu Geld geprägt worden.
 
 
-
-
-
 :::
 
 
