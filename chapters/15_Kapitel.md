@@ -686,7 +686,7 @@ zwei Parallelketten ordnen, die ein langes, schmales Plateau einschließen. Die
 Insel Engano ist der Gipfel der südöstlichen Spitze in einer andern ähnlichen
 Bergkette, die parallel mit der schon beschriebenen in nordwestlicher Richtung
 läuft. Nachdem sie unter den Meeresspiegel gesunken ist, kommt diese Kette
-wieder zum Vorschein in der Pagi-, Mantawiund Batu-Gruppe, Pulo Nias, Pulo Babi
+wieder zum Vorschein in der Pagi-, Mantawi- und Batu-Gruppe, Pulo Nias, Pulo Babi
 und den Cocos-Inseln.
 
 Das Plateau im Innern ist, wie wir ebenfalls gefunden haben, durch
