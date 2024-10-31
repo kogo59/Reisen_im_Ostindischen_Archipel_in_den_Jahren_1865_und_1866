@@ -78,11 +78,11 @@ den 1. September 1868.
 30. [Hängebrücke von Rotang auf Sumatra.](ch015.xhtml#b324) 
 31. [Ein Eingeborner von Nias.](ch016.xhtml#b338) 
 32. [Eingeborne von den Pagi-Inseln.](ch017.xhtml#b368)
-33. Singapore.
-34. Eine Ansicht auf dem Flusse Limatang in Sumatra.
-35. Frauen aus Palembang.
-36. Palembang bei Hochwasser.
-37. Erlegung der Pythonschlange.
+33. [Singapore.](ch019.xhtml#b398)
+34. [Eine Ansicht auf dem Flusse Limatang in Sumatra.](ch019.xhtml#b400)
+35. [Frauen aus Palembang.](ch019.xhtml#b404)
+36. [Palembang bei Hochwasser.](ch019.xhtml#b405)
+37. [Erlegung der Pythonschlange.](ch019.xhtml#b414)
 38. [Die Insel Sumatra.](ch013.xhtml#b290) 
 39. Karte zu Professor Bickmore's Reisen im ostindischen Archipel. Am Ende.
 
