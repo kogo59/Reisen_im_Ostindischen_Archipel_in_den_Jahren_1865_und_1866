@@ -84,7 +84,7 @@ den 1. September 1868.
 36. [Palembang bei Hochwasser.](ch019.xhtml#b405)
 37. [Erlegung der Pythonschlange.](ch019.xhtml#b414)
 38. [Die Insel Sumatra.](ch013.xhtml#b290) 
-39. Karte zu Professor Bickmore's Reisen im ostindischen Archipel. Am Ende.
+39. [Karte zu Professor Bickmore's Reisen im ostindischen Archipel.](ch025.xhtml#b999)  Am Ende.
 
 
 ## Verbesserungen

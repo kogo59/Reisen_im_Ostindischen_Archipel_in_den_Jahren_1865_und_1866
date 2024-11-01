@@ -41,50 +41,50 @@ Vereinigte Staaten von Amerika,
 den 1. September 1868.
 ::::
 
-::: 
+:::
 
 
 ## Verzeichniß der Illustrationen.
 
 
-1. [Die Frauen eines der höchsten Fürsten in Java.](ch001.xhtml#b001) (Nach einer Photographie. Titelkupfer.)
-2. [Geflügelhändler in Batavia.](ch003.xhtml#b012) (Nach einer Photographie)
-3. [Die Gouvernementsgebäude in Batavia.](ch003.xhtml#b014) (Nach einer Photographie).
-4. [Ein Javanese nebst Familie.](ch003.xhtml#b016) (Nach einer Photographie)
-5. [Rahden Saleh.](ch003.xhtml#b020) (Nach einer Photographie)
-6. [Rahden Saleh's Palast.](ch003.xhtml#b021) (Nach einer Photographie)
-7. [Ein Tandu.](ch004.xhtml#b028) (Nach einer Photographie)
-8. [Besprengung der Straßen in Batavia.](ch004.xhtml#b038) 
-10. [Ein Kling.](ch004.xhtml#b040) 
-11. [Ein Eingeborner von Belutschistan.](ch004.xhtml#b041) (Nach einer Photographie)
-12. [Sapis oder Ochsen von Madura.](ch004.xhtml#b044) (Nach einer Photographie)
-13. [Fruchtmarkt.](ch005.xhtml#b062) (Nach einer Photographie).
-14. [Grabmal des Sultans in Palembang.](ch007.xhtml#b094)
-15. Der Pinang oder die Betelnußpalme. (Nach einer Zeichnung von Rahden Saleh)
-16. Nach dem Bade. (Nach einer Photographie)
-17. Musikalische Instrumente der Malaien (Batavia)
-18. Ein Dyak oder Kopfjäger von Borneo. (Nach einer Photographie).
-19. Landung auf der Südküste Cerams durch die Brandung hindurch. (Nach einer Skizze)
-20. Die Lontar-Palme.
-21. Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet. (Nach einer Skizze)
-22. Ein Dschungel
-23. Ein malaiischer Opiumraucher. (Nach einer Photographie)
-24. Die Gomuti-Palme. (Nach einer Skizze)
-25. Der Bambus.
-26. Zugang zur „Spalte“ in der Nähe von Pabang
-27. Frauen von Menangkabau.
-28. Eine Landschaft im Innern Sumatras.
-29. Eine Fahrt an jäher Felsenwand.
-30. Hängebrücke von Rotang auf Sumatra.
-31. Ein Eingeborner von Nias.
-32. Eingeborne von den Pagi-Inseln.
-33. Singapore.
-34. Eine Ansicht auf dem Flusse Limatang in Sumatra.
-35. Frauen aus Palembang.
-36. Palembang bei Hochwasser.
-37. Erlegung der Pythonschlange.
-38. Die Insel Sumatra.
-39. Karte zu Professor Bickmore's Reisen im ostindischen Archipel. Am Ende.
+1. [Die Frauen eines der höchsten Fürsten in Java.](#b001) (Nach einer Photographie. Titelkupfer.)
+2. [Geflügelhändler in Batavia.](#b012) (Nach einer Photographie)
+3. [Die Gouvernementsgebäude in Batavia.](#b014) (Nach einer Photographie).
+4. [Ein Javanese nebst Familie.](#b016) (Nach einer Photographie)
+5. [Rahden Saleh.](#b020) (Nach einer Photographie)
+6. [Rahden Saleh's Palast.](#b021) (Nach einer Photographie)
+7. [Ein Tandu.](#b028) (Nach einer Photographie)
+8. [Besprengung der Straßen in Batavia.](#b038) 
+10. [Ein Kling.](#b040) 
+11. [Ein Eingeborner von Belutschistan.](#b041) (Nach einer Photographie)
+12. [Sapis oder Ochsen von Madura.](#b044) (Nach einer Photographie)
+13. [Fruchtmarkt.](#b062) (Nach einer Photographie).
+14. [Grabmal des Sultans in Palembang.](#b094)
+15. [Der Pinang oder die Betelnußpalme.](#b132) (Nach einer Zeichnung von Rahden Saleh)
+16. [Nach dem Bade.](#b134)  (Nach einer Photographie)
+17. [Musikalische Instrumente der Malaien.](#b140)  (Batavia)
+18. [Ein Dyak oder Kopfjäger von Borneo.](#b152)  (Nach einer Photographie).
+19. [Landung auf der Südküste Cerams durch die Brandung hindurch.](#b154)  (Nach einer Skizze)
+20. [Die Lontar-Palme.](#b162) 
+21. [Besteigung des brennenden Berges auf Banda. — Durch ein Farnkraut gerettet.](#b174)  (Nach einer Skizze)
+22. [Ein Dschungel.](#b194)
+23. [Ein malaiischer Opiumraucher.](#b211) (Nach einer Photographie)
+24. [Die Gomuti-Palme.](#b280) (Nach einer Skizze)
+25. [Der Bambus.](#b284) 
+26. [Zugang zur „Spalte“ in der Nähe von Pabang.](#b296) 
+27. [Frauen von Menangkabau.](#b300) 
+28. [Eine Landschaft im Innern Sumatras.](#b306) 
+29. [Eine Fahrt an jäher Felsenwand.](#b318) 
+30. [Hängebrücke von Rotang auf Sumatra.](#b324) 
+31. [Ein Eingeborner von Nias.](#b338) 
+32. [Eingeborne von den Pagi-Inseln.](#b368)
+33. [Singapore.](#b398)
+34. [Eine Ansicht auf dem Flusse Limatang in Sumatra.](#b400)
+35. [Frauen aus Palembang.](#b404)
+36. [Palembang bei Hochwasser.](#b405)
+37. [Erlegung der Pythonschlange.](#b414)
+38. [Die Insel Sumatra.](#b290) 
+39. [Karte zu Professor Bickmore's Reisen im ostindischen Archipel.](#b999)  Am Ende.
 
 
 ## Verbesserungen
