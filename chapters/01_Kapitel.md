@@ -766,8 +766,6 @@ die Sache bekümmerte.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0100]: [Weihnachts-Insel, 1° 58' nördl. Br., 220° östl. L.]{.footnote}
 
 [^0101]: [Haufenwolken.]{.footnote}

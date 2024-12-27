@@ -575,7 +575,6 @@ Beschwerden durchmachte als im ostindischen Archipel.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1700]: [Die ganze Bevölkerung der Residentschaft Palembang wird auf 527,050 geschätzt; davon sind 132 Europäer, ungefähr 522,345 Eingeborne, 2,790 Chinesen, 1,716 Araber, und 67 von anderen morgenländischen Völkern.]{.footnote}
 

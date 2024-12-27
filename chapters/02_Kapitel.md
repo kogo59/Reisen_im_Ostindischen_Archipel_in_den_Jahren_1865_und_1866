@@ -758,7 +758,6 @@ bereitet wird.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [Die Bevölkerung der Residentschaft Samarang, welche die Stadt mit umfaßt, beträgt 1,020,275. Davon sind 5,162 Europäer, 1,001,252 Eingeborne, 11,441 Chinesen, 438 Araber, und 1,982 von anderen morgenländischen Nationen.
 Das Militär ist in diesen Zahlen nicht mit begriffen.]{.footnote}

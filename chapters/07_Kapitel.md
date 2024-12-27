@@ -1007,11 +1007,7 @@ waren, und ferner erwägen, wie viele und genaue Belehrung er uns gibt, so
 verleihen wir ihm einstimmig mit seinen Zeitgenossen den hohen, aber
 wohlverdienten Ehrennamen: „Der Indische Plinius.“ 
 
-
-
 :::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [Diesen Eunong Api darf man nicht mit einem andern ähnlichen Vulkan desselben Namens nördlich von Wetta, und noch einem dritten in der Nähe der Nordostspitze Sumbawas, am nördlichen Eingange in die Sapi-Straße, verwechseln.]{.footnote}
 

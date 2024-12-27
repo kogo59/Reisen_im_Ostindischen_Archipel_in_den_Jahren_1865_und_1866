@@ -1116,8 +1116,6 @@ als
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0800]: [Siehe Ramusio. Band l, S. 376 in Crawfurd's „Dictionary of the India Islands“.]{.footnote}
 
 [^0801]: [Seile vom Cocosbast.]{.footnote}

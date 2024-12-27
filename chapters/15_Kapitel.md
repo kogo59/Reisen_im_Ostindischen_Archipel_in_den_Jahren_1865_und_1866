@@ -706,9 +706,6 @@ dann diese Inseln nur die Gipfel einer andern großen Kette, die an einem Theile
 des südlichen Randes desselben Continents steht und die Stelle andeutet, wo das
 weite und tiefe Becken des indischen Oceans beginnt.
 
-
 :::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1500]: [S. Marsden's Beschreibung der Insel Sumatra. A. d. Engl. übersetzt. Leipzig 1785. S. 342 ff.]{.footnote}

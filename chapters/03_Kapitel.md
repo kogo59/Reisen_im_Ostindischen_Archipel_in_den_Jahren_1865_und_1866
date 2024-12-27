@@ -644,7 +644,6 @@ ganzen Archipel.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [Die Preise desselben sind folgendermaßen festgesetzt: Auf Madura und der Nordküste von Java 6.92 Gulden: auf der Südküste 5.92 Gulden; in Benculen, Padang und Priaman auf der Westküste von Sumatra 6.66¾, Gulden; Ayar Bangis und Natal 6 Gulden; Palembang 5. 10 Gulden; Banca 6.72 Gulden; Bandyermassin 6.66 Gulden; Sambas und Pontianak 5.10 Gulden.]{.footnote}
 

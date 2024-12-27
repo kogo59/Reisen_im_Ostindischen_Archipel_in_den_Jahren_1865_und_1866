@@ -732,8 +732,6 @@ chinesischen Meeres.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0400]: [*João de Barros,* der eine klassische Geschichte der Gegenden schrieb, welche die Portugiesen im Morgenlande entdeckten und eroberten, wurde 1496 geboren und starb 1570. Er besuchte Indien nie selbst, sondern trug seine Beschreibungen im Jahre 1532 sorgfältig und getreu aus den amtlichen Mittheilungen zusammen, die seiner Gewissenhaftigkeit alle anvertraut wurden. Die erste Dekade seines Werkes wurde 1552, die zweite 1553, die dritte 1563 und die vierte nach seinem Tode veröffentlicht. Er war also ein Zeitgenosse der meisten alten Seefahrer, deren Geschichte er erzählt.]{.footnote}
 
 [^0401]: [*Diogo de Cauto,* der die „Asia Portuguesa“ schrieb, wurde 1542 in Lissabon geboren und starb 1616, vierundsiebzig Jahre alt, in Goa, der portugiesischen Hauptstadt von Indien. Man glaubt, daß er im Alter von vierzehn Jahren nach Indien ging und, nachdem er dort zehn Jahre in der Armee gelebt hatte, nach Portugal zurückkehrte, aber bald darauf wieder hinging und bis zu seinem Tode dort blieb. Es ist wahrscheinlich, daß er nie einen Theil des Archipels selbst besuchte, sondern die Auskunft, die er uns gibt, von Anderen erhielt.]{.footnote}

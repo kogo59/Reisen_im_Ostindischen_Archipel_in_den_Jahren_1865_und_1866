@@ -581,9 +581,6 @@ sie noch ebenso herrscht wie vor zweihundert Jahren.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0900]: [Eine ähnliche Ursache erzeugt den regenlosen District von Peru, aber dort kommt der herrschende Wind das ganze Jahr hindurch, wenigstens in den oberen Schichten der Atmosphäre, aus Südost.]{.footnote}
 
 [^0901]: [Die obige Zeitangabe wird von Pigafetta bestätigt, der 1521 schrieb und über diesen Punkt bemerkt: „Es sind kaum fünfzig Jahre vergangen, seitdem die Mauren (Araber) Malucco (die Molulken) eroberten (bekehrten) und dort blieben. Vorher waren diese Inseln nur mit Gentilen (d. h. Heiden) bevölkert.“ ]{.footnote}

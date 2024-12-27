@@ -520,7 +520,6 @@ demselben Grade wird der Wohlstand des Landes größer werden.
 ![Der Bambus.](Reisen_im_Ostindischen_Archipel_284.jpg "Der Bambus."){#b284}
 ::::
 
-
 Die Gesteine, die ich auf meiner Reise durch die Minahassa sah, sind, wie oben
 bemerkt, trachytische Laven, vulkanischer Sand und Asche, Bimsstein und
 Conglomerate, die aus den genannten Stoffen und durch ihre Zersetzung gebildetem
@@ -715,9 +714,6 @@ in Verwahrung gebracht.
 ::::
 
 :::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [Ein getreues Bild von diesen Ringen gibt das Concretionsgefüge, das in Dana's „Manual of Geology“, S. 99, Fig. 865, dargestellt ist.]{.footnote}
 

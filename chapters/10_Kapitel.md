@@ -802,8 +802,6 @@ Ort verwandelt.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1000]: [Eine Decke von getheertem Segeltuch.]{.footnote}
 
 [^1001]: [Nordamerikanische Indianerschuhe von Wildleder mit der Sohle aus dem Ganzen geschnitten.]{.footnote}

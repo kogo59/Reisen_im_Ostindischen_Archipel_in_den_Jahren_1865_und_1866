@@ -910,7 +910,6 @@ auf sich, sie nicht wieder bieten zu lassen.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: 
     :::: fs-s

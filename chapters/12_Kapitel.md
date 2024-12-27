@@ -588,6 +588,4 @@ keiner Gegend des Archipels, außer in Achin, je zu Geld geprägt worden.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1201]: [S. Max Müller's „Vorlesungen über die Wissenschaft der Sprache. Für das deutsche Publikum bearbeitet von Carl Böttger.“ Erster Cursus. Leipzig, 1863. S. I70.]{.footnote}

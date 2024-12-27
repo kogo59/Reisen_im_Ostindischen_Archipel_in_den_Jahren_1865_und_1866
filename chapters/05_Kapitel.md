@@ -1137,7 +1137,6 @@ zurück.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [Ein Paal, die Maßeinheit im ostindischen Archipel für Entfernungen auf dem Lande, ist  ^15^/~16~ einer englischen oder etwas über ⅕ einer geographischen Meile.]{.footnote}
 

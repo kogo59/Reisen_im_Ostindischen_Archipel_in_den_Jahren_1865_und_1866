@@ -357,7 +357,6 @@
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1800]: [Gould, „Birds of Australia“.]{.footnote}
 

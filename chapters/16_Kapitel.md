@@ -878,8 +878,6 @@ Landschaft befinden, die buchstäblich an Wild Ueberfluß hat.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1600]: [Während das vorliegende Buch in die Druckerei geht, ist die ganze erwähnte Sammlung in vollkommener Ordnung angekommen, obwohl das Schiff, das sie brachte, zweimal in Gefahr gerieth und in einen Hafen zu kommen suchen mußte, wobei es das eine Mal durch einen Cyclon, bei dem es acht Stunden lang auf der Seite liegen blieb, beinahe entmastet worden wäre.]{.footnote}
 
 [^1601]: [Dies stimmt mit Van Dijl's Angabe überein, daß, während die Reinheit der englischen Steinkohlen durch 81,6 dargestellt wird, diejenige der Kohlen aus den Orange-Nassau-Gruben auf Borneo durch 88,46 und der hiesigen durch 69,47 dargestellt wurde.]{.footnote}
