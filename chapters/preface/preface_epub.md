@@ -479,7 +479,7 @@ von<br />
 <small>Mitglied der königlichen geographischen Gesellschaft in London,
 correspondirendem Mitglied der Amerikanischen und Londoner ethnologischen
 Gesellschaft und des Lyceums für Naturgeschichte in New-York. Mitglied der
-naturhisiorischen Gesellschaft in Boston und der Amerikanischen orientalischen
+naturhistorischen Gesellschaft in Boston und der Amerikanischen orientalischen
 Gesellschaft, Professor der Naturgeschichte an der Madison-Universität zu
 Hamilton im Staate New-York.</small><br /><br />
 ::::
