@@ -1,6 +1,6 @@
 # Reisen im Ostindischen Archipel in den Jahren 1865 und 1866
 
-<img align="right" height="150" src="https://github.com/kogo59/Reisen_im_Ostindischen_Archipel_in_den_Jahren_1865_und_1866/blob/main/images/cover.jpg">
+<img align="right" width="200"  src="https://github.com/kogo59/Reisen_im_Ostindischen_Archipel_in_den_Jahren_1865_und_1866/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Reisen im Ostindischen Archipel in den Jahren 1865 und 1866".
 
